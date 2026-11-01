@@ -8,11 +8,11 @@
 
 </div> 
 
-### <img src="https://api.iconify.design/mdi:shield-lock-outline.svg?color=%23FFB6C1" width="20" /> About Me
+### About Me
 - Passionate about **Frontend Development & UI Design**
 - Interested in web security, clean interfaces, and building things that are both safe *and* beautiful
 
-### <img src="https://api.iconify.design/mdi:tools.svg?color=%23FFB6C1" width="20" /> Tech & Tools
+### Tech & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,react,vite,docker,blender&theme=dark" />
