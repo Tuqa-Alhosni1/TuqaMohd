@@ -20,10 +20,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" width="600" />
-</div>
-
-<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:000000&height=120&section=footer)
 
